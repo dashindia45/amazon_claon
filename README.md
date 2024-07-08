@@ -1,5 +1,5 @@
-# amazon_claon
- Claon Project using HTML ,CSS 
+# amazon_clone
+ Clone Project using HTML ,CSS 
  # Amazon Clone
 
 This is a simple Amazon clone created using HTML and CSS. The project mimics the basic structure and design of the Amazon website, allowing you to browse through product categories and view individual product pages.
